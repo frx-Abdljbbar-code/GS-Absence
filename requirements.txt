@@ -2,7 +2,7 @@ asgiref==3.6.0
 certifi==2022.12.7
 charset-normalizer==3.1.0
 defusedxml==0.7.1
-Django==4.2.1
+Django==4.2.3
 django-admin-argon-dashboard==1.0.16
 django-admin-berry==1.0.10
 django-cors-headers==3.14.0
